@@ -57,15 +57,8 @@ Contributions to enhance or improve the calculator are welcome. To contribute:
 3. Make your changes.
 4. Submit a pull request with a description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
 - [Rubik Font](https://fonts.google.com/specimen/Rubik) and [Work Sans Font](https://fonts.google.com/specimen/Work+Sans) for typography.
 - Inspiration from various open-source calculator projects.
-
-## Contact
-
-For any questions or feedback, please open an issue on the GitHub repository or contact [biswajithemram753@gmail.com].
