@@ -35,7 +35,7 @@ To use this calculator application, follow these steps:
 
 ## Project Link
 
-- [Calculator Application Link](https://biswajithemram.github.io/Internship-Calculator/) 
+- [Calculator Application Link](https://abhinav-c2004.github.io/Calculator/) 
 
 
 ## File Structure
